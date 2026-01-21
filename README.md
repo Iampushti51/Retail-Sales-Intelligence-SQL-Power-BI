@@ -81,3 +81,12 @@ The analysis supports better decision-making in pricing, inventory planning, and
 - SQL scripts for analysis and KPIs
 - Power BI dashboard (.pbix) and screenshots
 - CSV dataset file
+
+👤 Author
+**Pushti Joshi**  
+Aspiring Data Analyst | SQL | Power BI | Data Visualization  
+8347961187
+iampushtijoshi@gmail.com
+📍 India  
+
+
